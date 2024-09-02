@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Apisero/Documents/SNOWFLAKE_TRAINING/Worksheets/1 Creating and Assigning Roles.sql",
+		"/C/Users/ShashankMauli/Desktop/SCRIPTINTRODUCTION.txt",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/NOTES 1 Query Specialty Stage Tables.txt",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/CTE1.sql",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/New folder/response.json",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/response.json",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/IMPORTANT IMPORTANT IMPRTANT.sql",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/FORMATSQL 1 Query Specialty Stage Tables.sql",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/NOTES 0 Dim_Specialty.txt",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/SQL 1 Query Specialty Stage Tables.sql",
+		"/C/Users/ShashankMauli/Desktop/clientdim.sql",
+		"/C/Users/ShashankMauli/Desktop/dataVizulaizationScript.txt",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGSalesInvoiceLine.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGSalesCr_MemoLine.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGPurch_Inv_Line.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGJob.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGPurch_Cr_MemoLine.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGGeneralPostingSetup.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGJobLedgerEntry.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGG_LEntry.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGG_LAccount.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMSMEDICALSTAFFINGCHGDimensionValue.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMS_Wizard_To_Navision_Team_Mapping.sql",
+		"/C/Users/ShashankMauli/Documents/OFFICE METADATA FILES CHG/GMS/GMS_NAV/base/base_GMS_Account_Mapping.sql",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/part5.json",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/part4.json",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/part3.json",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/part2.json",
+		"/C/Users/ShashankMauli/Desktop/API_TO_JSON_IDLE_VERSION/part1.json",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MSOFFICE].[ALS_Specialty_Lookup].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[Workday].[Specialty_Stg].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[RNN].[Category].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[FRC010].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[FRC001].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[FSY010].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[FJB001].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[fenkeys].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_FMDATA].[FAS001].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_RNDATA].[FRC001].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_RNDATA].[FRC010].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_RNDATA].[FSY010].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_RNDATA].[FJB001].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/[WarehouseStage].[MM_RNDATA].[fenkeys].csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/EXPORTED TABLE RESULTS/sample.csv",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/FORMATSQL 1 Query Specialty Stage Tables - Copy.sql",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/1 Query Specialty Stage Tables Notes",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/1 Query Specialty Stage Tables SQL.sql",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/1 Query Speciality Stage Tables SQL",
+		"/C/Users/ShashankMauli/Documents/GitHub/SQL QUERIES AND THEIR RESULTS FROM CLIENT SNOWFLAKE ENV/SSMS Mapping Blueprint/1 Query Speciality Stage Tables Notes",
+		"/C/Users/ShashankMauli/Documents/Interviews/Sripathi Venkata Raju/Sripathi Venkata Raju_kipi format feedback",
+		"/C/Users/ShashankMauli/Documents/Interviews/Jaya Gowtham Saitana/Jaya Gowtham Saitana_kipi format feedback.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
